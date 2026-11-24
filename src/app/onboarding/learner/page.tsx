@@ -118,7 +118,7 @@ export default function LearnerOnboardingPage() {
         {step === 1 && (
           <div className="space-y-4">
             <h2 className="text-xl font-bold text-slate-900">Tell us about your background</h2>
-            <p className="text-xs text-slate-500">This helps SkillBridge tailor roadmap pacing to your commitments.</p>
+            <p className="text-xs text-slate-500">This helps DokkhoNagorik tailor roadmap pacing to your commitments.</p>
 
             <div>
               <label className="block text-xs font-semibold text-slate-700 mb-1">Age Range</label>
@@ -237,7 +237,7 @@ export default function LearnerOnboardingPage() {
         {step === 4 && (
           <div className="space-y-4">
             <h2 className="text-xl font-bold text-slate-900">What is your primary goal?</h2>
-            <p className="text-xs text-slate-500">Choose the outcomes you want to achieve with SkillBridge.</p>
+            <p className="text-xs text-slate-500">Choose the outcomes you want to achieve with DokkhoNagorik.</p>
 
             <div className="space-y-2">
               {availableGoals.map((g) => {

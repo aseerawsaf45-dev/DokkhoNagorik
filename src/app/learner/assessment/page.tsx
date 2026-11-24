@@ -70,7 +70,7 @@ export default function SkillAssessmentPage() {
         <p className="text-xs text-slate-500 mt-1 max-w-2xl">
           Complete this diagnostic to benchmark your theoretical and practical knowledge.
           <em className="block text-slate-400 mt-1">
-            Note: SkillBridge assessments provide diagnostic skill benchmarking, not accredited institutional certificates.
+            Note: DokkhoNagorik assessments provide diagnostic skill benchmarking, not accredited institutional certificates.
           </em>
         </p>
       </div>

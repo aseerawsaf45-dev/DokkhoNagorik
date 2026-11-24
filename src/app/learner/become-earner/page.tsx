@@ -113,7 +113,7 @@ export default function BecomeAnEarnerPage() {
           Become an Earner
         </h1>
         <p className="text-xs text-slate-500 mt-1 max-w-2xl leading-relaxed">
-          SkillBridge does not make you maintain two separate accounts. Your practice roadmap and portfolio directly qualify you to receive verified SME projects.
+          DokkhoNagorik does not make you maintain two separate accounts. Your practice roadmap and portfolio directly qualify you to receive verified SME projects.
         </p>
       </div>
 

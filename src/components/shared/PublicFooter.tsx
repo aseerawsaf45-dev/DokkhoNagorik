@@ -63,7 +63,7 @@ export function PublicFooter() {
               className="font-display font-black text-2xl md:text-3xl tracking-[0.06em] text-white no-underline flex items-center gap-2.5 hover:opacity-90 transition-opacity"
             >
               <span className="w-3 h-3 rounded-full bg-[#0e2ac5] shadow-[0_0_12px_#0e2ac5]" />
-              <span>SkillBridge</span>
+              <span>DokkhoNagorik</span>
             </Link>
 
             <p className="font-raleway text-sm md:text-base text-neutral-300 max-w-md leading-relaxed mt-4">
@@ -88,11 +88,11 @@ export function PublicFooter() {
             {/* Direct Contact Bar */}
             <div className="mt-8 flex items-center gap-4">
               <a
-                href="mailto:support@skillbridge.io"
+                href="mailto:support@dokkhonagorik.io"
                 className="inline-flex items-center gap-2 font-mono text-xs text-blue-300 hover:text-white transition-colors"
               >
                 <Mail className="w-3.5 h-3.5 text-[#0e2ac5]" />
-                <span>support@skillbridge.io</span>
+                <span>support@dokkhonagorik.io</span>
               </a>
               <span className="text-white/20">•</span>
               <span className="font-mono text-xs text-neutral-400 flex items-center gap-1.5">
@@ -277,7 +277,7 @@ export function PublicFooter() {
                     href="/about"
                     className="group font-raleway text-neutral-300 hover:text-white transition-colors inline-flex items-center gap-1"
                   >
-                    About SkillBridge
+                    About DokkhoNagorik
                     <ArrowUpRight className="w-3 h-3 opacity-0 -translate-x-1 translate-y-1 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0 transition-all text-[#0e2ac5]" />
                   </Link>
                 </li>
@@ -299,11 +299,11 @@ export function PublicFooter() {
         <div className="mt-16 md:mt-20 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex flex-col sm:flex-row items-center gap-3 text-xs text-neutral-400">
             <span className="font-display font-bold text-white tracking-wide">
-              SkillBridge
+              DokkhoNagorik
             </span>
             <span className="hidden sm:inline text-white/30">•</span>
             <span className="font-mono text-[11px]">
-              © 2026 SkillBridge. All rights reserved.
+              © 2026 DokkhoNagorik. All rights reserved.
             </span>
             <span className="hidden sm:inline text-white/30">•</span>
             <span className="font-mono text-[11px] text-emerald-400">

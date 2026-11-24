@@ -32,22 +32,22 @@ import {
 } from "./seedData";
 
 const STORAGE_KEYS = {
-  CURRENT_USER: "skillbridge_current_user",
-  USERS: "skillbridge_users",
-  LEARNER_PROFILES: "skillbridge_learner_profiles",
-  EARNER_PROFILES: "skillbridge_earner_profiles",
-  ROADMAPS: "skillbridge_roadmaps",
-  RESOURCES: "skillbridge_resources",
-  PRACTICE_PROJECTS: "skillbridge_practice_projects",
-  PORTFOLIO_PROJECTS: "skillbridge_portfolio_projects",
-  MARKETPLACE_PROJECTS: "skillbridge_marketplace_projects",
-  APPLICATIONS: "skillbridge_applications",
-  ACTIVE_PROJECTS: "skillbridge_active_projects",
-  TRANSACTIONS: "skillbridge_transactions",
-  REVIEWS: "skillbridge_reviews",
-  TEAMS: "skillbridge_teams",
-  NOTIFICATIONS: "skillbridge_notifications",
-  DEMO_SEEDED: "skillbridge_seeded_v1"
+  CURRENT_USER: "dokkhonagorik_current_user",
+  USERS: "dokkhonagorik_users",
+  LEARNER_PROFILES: "dokkhonagorik_learner_profiles",
+  EARNER_PROFILES: "dokkhonagorik_earner_profiles",
+  ROADMAPS: "dokkhonagorik_roadmaps",
+  RESOURCES: "dokkhonagorik_resources",
+  PRACTICE_PROJECTS: "dokkhonagorik_practice_projects",
+  PORTFOLIO_PROJECTS: "dokkhonagorik_portfolio_projects",
+  MARKETPLACE_PROJECTS: "dokkhonagorik_marketplace_projects",
+  APPLICATIONS: "dokkhonagorik_applications",
+  ACTIVE_PROJECTS: "dokkhonagorik_active_projects",
+  TRANSACTIONS: "dokkhonagorik_transactions",
+  REVIEWS: "dokkhonagorik_reviews",
+  TEAMS: "dokkhonagorik_teams",
+  NOTIFICATIONS: "dokkhonagorik_notifications",
+  DEMO_SEEDED: "dokkhonagorik_seeded_v1"
 };
 
 function getItem<T>(key: string, fallback: T): T {

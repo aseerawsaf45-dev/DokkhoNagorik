@@ -51,7 +51,7 @@ export default function PortfolioBuilderPage() {
     setSkillsUsed("Figma, UI/UX Design, Design Systems");
     setToolsUsed("Figma");
     setImageUrl("https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80");
-    setProjectUrl("https://skillbridge.app/preview/case-study");
+    setProjectUrl("https://dokkhonagorik.app/preview/case-study");
     setGithubUrl("");
     setKeyOutcomes("Validated through usability sessions with 8 participants; achieved 92% task success rate.");
     setIsModalOpen(true);

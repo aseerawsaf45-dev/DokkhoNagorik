@@ -8,7 +8,6 @@ import {
   Menu,
   X,
   ArrowRight,
-  ChevronRight,
   SlidersHorizontal,
 } from "lucide-react";
 
@@ -38,7 +37,7 @@ export function PublicNavbar({ onOpenControls }: PublicNavbarProps) {
             className="font-display font-black text-xl md:text-2xl tracking-[0.06em] text-[#0a0a0a] no-underline hover:opacity-85 transition-opacity flex items-center gap-2"
           >
             <span className="w-2.5 h-2.5 rounded-full bg-[#0e2ac5]" />
-            <span>SkillBridge</span>
+            <span>DokkhoNagorik</span>
           </Link>
           <span className="hidden lg:inline-block font-mono text-[10px] uppercase tracking-[0.2em] text-neutral-400 border-l border-neutral-300 pl-3">
             Skill-to-Income

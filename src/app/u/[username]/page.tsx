@@ -47,7 +47,7 @@ function PortfolioView() {
           <div className="w-7 h-7 rounded-lg bg-indigo-600 flex items-center justify-center text-white font-bold text-xs">
             SB
           </div>
-          <span className="font-bold text-slate-900 text-sm tracking-tight">SkillBridge Public Showcase</span>
+          <span className="font-bold text-slate-900 text-sm tracking-tight">DokkhoNagorik Public Showcase</span>
         </Link>
 
         <div className="flex items-center gap-3">
@@ -58,7 +58,7 @@ function PortfolioView() {
             href="/register"
             className="px-3 py-1.5 rounded-lg bg-indigo-600 text-white text-xs font-semibold hover:bg-indigo-700 shadow-2xs"
           >
-            Hire on SkillBridge
+            Hire on DokkhoNagorik
           </Link>
         </div>
       </div>

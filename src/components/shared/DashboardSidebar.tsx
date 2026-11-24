@@ -109,7 +109,7 @@ export function DashboardSidebar({ role }: SidebarProps) {
           <div className="w-7 h-7 rounded-lg bg-gradient-to-tr from-indigo-700 to-blue-500 flex items-center justify-center text-white font-mono font-bold text-xs shadow-xs">
             SB
           </div>
-          <span className="font-bold text-sm tracking-tight text-slate-900">SkillBridge</span>
+          <span className="font-bold text-sm tracking-tight text-slate-900">DokkhoNagorik</span>
         </Link>
         <div className="flex items-center gap-2">
           <Link
@@ -152,7 +152,7 @@ export function DashboardSidebar({ role }: SidebarProps) {
             </div>
             <div>
               <span className="font-bold text-sm text-slate-900 block leading-none">
-                SkillBridge
+                DokkhoNagorik
               </span>
               <span className="text-[10px] text-slate-500 font-mono block mt-1 capitalize font-medium">
                 {role} console

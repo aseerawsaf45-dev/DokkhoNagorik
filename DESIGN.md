@@ -1,4 +1,4 @@
-# DESIGN.md — SkillBridge Design System
+# DESIGN.md — DokkhoNagorik Design System
 
 ## Atmosphere & Philosophy
 - **Density:** Cockpit Balanced (6/10). Dense, information-rich tables and metrics, but with breathable micro-whitespace.

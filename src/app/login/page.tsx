@@ -11,7 +11,7 @@ import { ArrowRight, Lock, Mail, Sparkles, CheckCircle2 } from "lucide-react";
 export default function LoginPage() {
   const router = useRouter();
   const { setCurrentUser } = useApp();
-  const [email, setEmail] = useState("learner@skillbridge.demo");
+  const [email, setEmail] = useState("learner@dokkhonagorik.demo");
   const [password, setPassword] = useState("demo1234");
   const [error, setError] = useState("");
 
@@ -44,7 +44,7 @@ export default function LoginPage() {
             <div className="w-10 h-10 rounded-xl bg-indigo-600 flex items-center justify-center text-white font-bold text-base mx-auto mb-3 shadow-sm">
               SB
             </div>
-            <h1 className="text-2xl font-extrabold text-slate-900 tracking-tight">Sign In to SkillBridge</h1>
+            <h1 className="text-2xl font-extrabold text-slate-900 tracking-tight">Sign In to DokkhoNagorik</h1>
             <p className="text-xs text-slate-500 mt-1">Select a demo role or sign in with your credentials</p>
           </div>
 
@@ -102,9 +102,9 @@ export default function LoginPage() {
             <div className="grid grid-cols-2 gap-2 text-xs">
               <button
                 type="button"
-                onClick={() => setDemoAccount("learner@skillbridge.demo")}
+                onClick={() => setDemoAccount("learner@dokkhonagorik.demo")}
                 className={`p-2 rounded-lg border text-left transition-all ${
-                  email === "learner@skillbridge.demo"
+                  email === "learner@dokkhonagorik.demo"
                     ? "bg-indigo-50 border-indigo-300 text-indigo-900"
                     : "border-slate-200 hover:bg-slate-50 text-slate-700"
                 }`}
@@ -115,9 +115,9 @@ export default function LoginPage() {
 
               <button
                 type="button"
-                onClick={() => setDemoAccount("earner@skillbridge.demo")}
+                onClick={() => setDemoAccount("earner@dokkhonagorik.demo")}
                 className={`p-2 rounded-lg border text-left transition-all ${
-                  email === "earner@skillbridge.demo"
+                  email === "earner@dokkhonagorik.demo"
                     ? "bg-indigo-50 border-indigo-300 text-indigo-900"
                     : "border-slate-200 hover:bg-slate-50 text-slate-700"
                 }`}
@@ -128,9 +128,9 @@ export default function LoginPage() {
 
               <button
                 type="button"
-                onClick={() => setDemoAccount("business@skillbridge.demo")}
+                onClick={() => setDemoAccount("business@dokkhonagorik.demo")}
                 className={`p-2 rounded-lg border text-left transition-all ${
-                  email === "business@skillbridge.demo"
+                  email === "business@dokkhonagorik.demo"
                     ? "bg-indigo-50 border-indigo-300 text-indigo-900"
                     : "border-slate-200 hover:bg-slate-50 text-slate-700"
                 }`}
@@ -141,9 +141,9 @@ export default function LoginPage() {
 
               <button
                 type="button"
-                onClick={() => setDemoAccount("admin@skillbridge.demo")}
+                onClick={() => setDemoAccount("admin@dokkhonagorik.demo")}
                 className={`p-2 rounded-lg border text-left transition-all ${
-                  email === "admin@skillbridge.demo"
+                  email === "admin@dokkhonagorik.demo"
                     ? "bg-indigo-50 border-indigo-300 text-indigo-900"
                     : "border-slate-200 hover:bg-slate-50 text-slate-700"
                 }`}

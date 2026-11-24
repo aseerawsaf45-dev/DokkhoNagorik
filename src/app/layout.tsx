@@ -29,7 +29,7 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "SkillBridge | A Skill-to-Income Ecosystem",
+  title: "DokkhoNagorik | A Skill-to-Income Ecosystem",
   description: "Learn with direction. Prove your skills. Earn with confidence. Connect professional skills with real SME projects.",
 };
 

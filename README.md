@@ -1,8 +1,8 @@
-# SkillBridge: A Skill-to-Income SaaS Ecosystem
+# DokkhoNagorik: A Skill-to-Income SaaS Ecosystem
 
 > **"Learn with direction. Prove your skills. Earn with confidence."**
 
-SkillBridge is a production-grade, responsive SaaS web application built with **Next.js 16 (App Router)**, **TypeScript**, and **Tailwind CSS**. It connects ambitious individuals developing real-world professional skills with small and medium enterprises (SMEs) that need verified project delivery.
+DokkhoNagorik is a production-grade, responsive SaaS web application built with **Next.js 16 (App Router)**, **TypeScript**, and **Tailwind CSS**. It connects ambitious individuals developing real-world professional skills with small and medium enterprises (SMEs) that need verified project delivery.
 
 ---
 
@@ -38,10 +38,10 @@ All demo accounts share the password: `demo1234`
 
 | Persona | Name | Email | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Learner** | Tanvir Ahmed | `learner@skillbridge.demo` | Explore roadmaps, complete practice projects, check Readiness Score |
-| **Earner** | Sabbir Hossain | `earner@skillbridge.demo` | Search SME projects, apply with case studies, deliver milestones |
-| **Business SME** | Pathao Logistics / Smart SME | `business@skillbridge.demo` | Post projects, review applicants, approve milestones & release escrow |
-| **Admin** | Platform Superadmin | `admin@skillbridge.demo` | Moderation queue, user directory, system health |
+| **Learner** | Tanvir Ahmed | `learner@dokkhonagorik.demo` | Explore roadmaps, complete practice projects, check Readiness Score |
+| **Earner** | Sabbir Hossain | `earner@dokkhonagorik.demo` | Search SME projects, apply with case studies, deliver milestones |
+| **Business SME** | Pathao Logistics / Smart SME | `business@dokkhonagorik.demo` | Post projects, review applicants, approve milestones & release escrow |
+| **Admin** | Platform Superadmin | `admin@dokkhonagorik.demo` | Moderation queue, user directory, system health |
 
 ---
 
@@ -60,7 +60,7 @@ All demo accounts share the password: `demo1234`
 5. Explore **Recommended Projects** (`/earner/recommended`) and apply to a matched SME project.
 
 ### Scenario B: Business to Project Completion & Escrow Payout
-1. Switch role to **Business** via the bottom-right floating switcher (or log in with `business@skillbridge.demo`).
+1. Switch role to **Business** via the bottom-right floating switcher (or log in with `business@dokkhonagorik.demo`).
 2. Go to **Post a Project** (`/business/post-project`):
    - Complete the 6-step form and click **Publish to Marketplace**.
 3. Open **Applications** (`/business/applications`):
@@ -79,7 +79,7 @@ All demo accounts share the password: `demo1234`
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd SkillBridge
+cd DokkhoNagorik
 
 # Install dependencies
 npm install
@@ -92,4 +92,4 @@ npm run build
 npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view SkillBridge in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view DokkhoNagorik in your browser.

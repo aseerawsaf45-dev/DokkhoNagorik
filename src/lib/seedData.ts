@@ -20,7 +20,7 @@ export const initialUsers: User[] = [
   {
     id: "user-learner-1",
     name: "Tanvir Ahmed",
-    email: "learner@skillbridge.demo",
+    email: "learner@dokkhonagorik.demo",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
     country: "Bangladesh",
     role: "learner",
@@ -31,7 +31,7 @@ export const initialUsers: User[] = [
   {
     id: "user-learner-2",
     name: "Nafisa Rahman",
-    email: "nafisa@skillbridge.demo",
+    email: "nafisa@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "learner",
     hasLearnerProfile: true,
@@ -41,7 +41,7 @@ export const initialUsers: User[] = [
   {
     id: "user-learner-3",
     name: "Rifat Karim",
-    email: "rifat@skillbridge.demo",
+    email: "rifat@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "learner",
     hasLearnerProfile: true,
@@ -52,7 +52,7 @@ export const initialUsers: User[] = [
   {
     id: "user-earner-1",
     name: "Sabbir Hossain",
-    email: "earner@skillbridge.demo",
+    email: "earner@dokkhonagorik.demo",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
     country: "Bangladesh",
     role: "earner",
@@ -63,7 +63,7 @@ export const initialUsers: User[] = [
   {
     id: "user-earner-2",
     name: "Maliha Chowdhury",
-    email: "maliha@skillbridge.demo",
+    email: "maliha@dokkhonagorik.demo",
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
     country: "Bangladesh",
     role: "earner",
@@ -74,7 +74,7 @@ export const initialUsers: User[] = [
   {
     id: "user-earner-3",
     name: "Arifur Rahman",
-    email: "arif@skillbridge.demo",
+    email: "arif@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "earner",
     hasLearnerProfile: true,
@@ -85,7 +85,7 @@ export const initialUsers: User[] = [
   {
     id: "user-business-1",
     name: "Pathao Express / Smart Logistics SME",
-    email: "business@skillbridge.demo",
+    email: "business@dokkhonagorik.demo",
     avatar: "https://images.unsplash.com/photo-1572021335469-31706a17aaef?w=150&auto=format&fit=crop&q=80",
     country: "Bangladesh",
     role: "business",
@@ -94,7 +94,7 @@ export const initialUsers: User[] = [
   {
     id: "user-business-2",
     name: "Bengal Organic Foods Ltd",
-    email: "organic@skillbridge.demo",
+    email: "organic@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "business",
     createdAt: "2026-08-20T09:30:00Z"
@@ -102,7 +102,7 @@ export const initialUsers: User[] = [
   {
     id: "user-business-3",
     name: "Apex Retail Solutions",
-    email: "apex@skillbridge.demo",
+    email: "apex@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "business",
     createdAt: "2026-09-05T13:45:00Z"
@@ -110,8 +110,8 @@ export const initialUsers: User[] = [
   // Admin
   {
     id: "user-admin-1",
-    name: "SkillBridge Super Admin",
-    email: "admin@skillbridge.demo",
+    name: "DokkhoNagorik Super Admin",
+    email: "admin@dokkhonagorik.demo",
     country: "Bangladesh",
     role: "admin",
     createdAt: "2026-01-01T00:00:00Z"
@@ -696,7 +696,7 @@ export const initialPortfolioProjects: PortfolioProject[] = [
     skillsUsed: ["UI/UX Design", "Figma", "Design Systems", "User Research", "Data Visualization"],
     toolsUsed: ["Figma", "FigJam", "Contrast Checker", "Notion"],
     imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80",
-    projectUrl: "https://skillbridge.app/preview/logitrack",
+    projectUrl: "https://dokkhonagorik.app/preview/logitrack",
     githubUrl: "",
     completionDate: "2026-11-05",
     keyOutcomes: "Validated through 8 usability tasks; decreased average task completion time from 4.2 minutes to 1.8 minutes.",
@@ -712,7 +712,7 @@ export const initialPortfolioProjects: PortfolioProject[] = [
     skillsUsed: ["Figma", "Mobile UI", "Information Architecture", "Design Systems"],
     toolsUsed: ["Figma", "Whimsical"],
     imageUrl: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&auto=format&fit=crop&q=80",
-    projectUrl: "https://skillbridge.app/preview/agrofresh",
+    projectUrl: "https://dokkhonagorik.app/preview/agrofresh",
     githubUrl: "",
     completionDate: "2026-10-12",
     keyOutcomes: "Adopted by 24 regional suppliers; processed ৳850,000 in monthly transactions in early pilot.",
@@ -728,7 +728,7 @@ export const initialPortfolioProjects: PortfolioProject[] = [
     skillsUsed: ["Fintech UX", "Mobile Design", "Figma", "Prototyping"],
     toolsUsed: ["Figma", "Lottie"],
     imageUrl: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&auto=format&fit=crop&q=80",
-    projectUrl: "https://skillbridge.app/preview/finpulse",
+    projectUrl: "https://dokkhonagorik.app/preview/finpulse",
     completionDate: "2026-09-28",
     keyOutcomes: "User testing score 94/100 among 12 small merchants in Mirpur market.",
     isPublished: true

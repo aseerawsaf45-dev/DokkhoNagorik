@@ -170,7 +170,7 @@ export default function RegisterPage() {
       <main className="flex-1 flex items-center justify-center py-16 px-4">
         <div className="w-full max-w-lg bg-white rounded-2xl border border-slate-200 shadow-xl p-8">
           <div className="text-center mb-6">
-            <h1 className="text-2xl font-extrabold text-slate-900 tracking-tight">Create your SkillBridge Account</h1>
+            <h1 className="text-2xl font-extrabold text-slate-900 tracking-tight">Create your DokkhoNagorik Account</h1>
             <p className="text-xs text-slate-500 mt-1">Select your pathway and start your personalized journey</p>
           </div>
 

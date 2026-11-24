@@ -15,7 +15,7 @@ export default function AboutPage() {
               Our Mission
             </span>
             <h1 className="mt-2 text-3xl sm:text-4xl font-extrabold text-[#171B24] tracking-tight">
-              About SkillBridge
+              About DokkhoNagorik
             </h1>
             <p className="mt-3 text-sm text-[#737B88]">
               "Learn with direction. Prove your skills. Earn with confidence."
@@ -23,12 +23,12 @@ export default function AboutPage() {
           </div>
 
           <div className="bg-white rounded-2xl p-8 border border-slate-200 shadow-2xs space-y-6 text-xs text-slate-600 leading-relaxed">
-            <h3 className="text-base font-bold text-slate-900">Why SkillBridge Exists</h3>
+            <h3 className="text-base font-bold text-slate-900">Why DokkhoNagorik Exists</h3>
             <p>
               Millions of aspiring students and career changers invest thousands of hours watching online video tutorials, yet struggle to secure meaningful, paid opportunities. At the same time, local small and medium enterprises (SMEs) are desperate for competent digital talent but get burned by unreliable freelancers or over-priced agencies.
             </p>
             <p>
-              SkillBridge solves this disconnect by transforming passive learning into an actionable <strong>skill-to-income pipeline</strong>. Rather than issuing generic certificates, we guide learners through practical, client-realistic projects, generate verifiable case-study portfolios, and connect them with local businesses through transparent, milestone-backed contracts.
+              DokkhoNagorik solves this disconnect by transforming passive learning into an actionable <strong>skill-to-income pipeline</strong>. Rather than issuing generic certificates, we guide learners through practical, client-realistic projects, generate verifiable case-study portfolios, and connect them with local businesses through transparent, milestone-backed contracts.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-4 border-t border-slate-100">

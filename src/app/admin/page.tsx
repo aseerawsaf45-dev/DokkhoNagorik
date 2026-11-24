@@ -42,7 +42,7 @@ export default function AdminDashboardPage() {
             <div className="w-8 h-8 rounded-lg bg-indigo-600 flex items-center justify-center text-white font-bold text-sm">
               SB
             </div>
-            <span className="font-extrabold text-slate-900 tracking-tight">SkillBridge Admin</span>
+            <span className="font-extrabold text-slate-900 tracking-tight">DokkhoNagorik Admin</span>
           </Link>
           <span className="text-[10px] bg-slate-900 text-white font-bold px-2 py-0.5 rounded uppercase tracking-wider">
             Superuser Console

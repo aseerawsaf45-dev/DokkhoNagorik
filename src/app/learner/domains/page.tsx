@@ -50,7 +50,7 @@ export default function DomainExpansionPage() {
           Recommended Related Domains
         </h1>
         <p className="text-xs text-slate-500 mt-1 max-w-2xl">
-          SkillBridge analyzes your active mastery in <strong>UI/UX Design</strong> and highlights high-leverage adjacent domains that multiply your earning power.
+          DokkhoNagorik analyzes your active mastery in <strong>UI/UX Design</strong> and highlights high-leverage adjacent domains that multiply your earning power.
         </p>
       </div>
 

@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  /* Gravity Studio & SkillBridge Design Tokens */
+  /* Gravity Studio & DokkhoNagorik Design Tokens */
   --font-sans: var(--font-sans, "Inter", sans-serif);
   --font-display: var(--font-display, "Space Grotesk", sans-serif);
   --font-mono: var(--font-mono, "JetBrains Mono", monospace);

@@ -60,7 +60,7 @@ export default function LandingPage() {
     isDown: false,
   });
 
-  // SkillBridge SaaS interactive state
+  // DokkhoNagorik SaaS interactive state
   const [cockpitTab, setCockpitTab] = useState<"escrow" | "roadmap" | "matching">("escrow");
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [calcDomain, setCalcDomain] = useState<string>("uiux");
@@ -181,7 +181,7 @@ export default function LandingPage() {
     return () => observer.disconnect();
   }, [selectedCategory, cockpitTab]);
 
-  // SkillBridge dynamic calculations
+  // DokkhoNagorik dynamic calculations
   const domainRates: Record<string, { name: string; rate: number }> = {
     uiux: { name: "UI/UX & Product Design", rate: 850 },
     frontend: { name: "Frontend Engineering (React/Next)", rate: 1050 },
@@ -314,7 +314,7 @@ export default function LandingPage() {
 
   const faqs = [
     {
-      q: "How does SkillBridge guarantee I get paid for my project work?",
+      q: "How does DokkhoNagorik guarantee I get paid for my project work?",
       a: "Every project posted by a client requires full upfront funding into our verified escrow vault. Funds are locked before you write a single line of code or design a single frame. When a milestone is approved, the funds release automatically (T+0) to your bank account or bKash wallet.",
     },
     {
@@ -327,11 +327,11 @@ export default function LandingPage() {
     },
     {
       q: "Can businesses hire entire multi-disciplinary squads?",
-      a: "Yes. SkillBridge SME Project Lead packages assemble matched cohorts of 1 UI/UX designer, 1 frontend engineer, and 1 backend developer managed under unified milestone contracts.",
+      a: "Yes. DokkhoNagorik SME Project Lead packages assemble matched cohorts of 1 UI/UX designer, 1 frontend engineer, and 1 backend developer managed under unified milestone contracts.",
     },
     {
-      q: "How is SkillBridge different from traditional freelancing platforms?",
-      a: "Traditional freelance platforms make you bid blindly against thousands of unvetted proposals with zero price floor. SkillBridge pairs structured diagnostic learning roadmaps with pre-budgeted, verified SME opportunities where client funds are already sitting in escrow.",
+      q: "How is DokkhoNagorik different from traditional freelancing platforms?",
+      a: "Traditional freelance platforms make you bid blindly against thousands of unvetted proposals with zero price floor. DokkhoNagorik pairs structured diagnostic learning roadmaps with pre-budgeted, verified SME opportunities where client funds are already sitting in escrow.",
     },
   ];
 
@@ -397,7 +397,7 @@ export default function LandingPage() {
 
             {/* Subtitle */}
             <p className="font-raleway text-lg sm:text-xl text-neutral-800 max-w-2xl mx-auto leading-relaxed mb-10 text-center font-medium">
-              SkillBridge connects ambitious learners, vetted earners, and forward-thinking SMEs.
+              DokkhoNagorik connects ambitious learners, vetted earners, and forward-thinking SMEs.
               Structured roadmaps, production-grade portfolios, and guaranteed milestone escrow in Bangladeshi Taka.
             </p>
 

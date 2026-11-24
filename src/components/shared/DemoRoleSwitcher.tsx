@@ -15,25 +15,25 @@ export function DemoRoleSwitcher() {
       role: "learner",
       label: "Learner Persona",
       desc: "Tanvir Ahmed (UI/UX Student)",
-      email: "learner@skillbridge.demo"
+      email: "learner@dokkhonagorik.demo"
     },
     {
       role: "earner",
       label: "Earner Persona",
       desc: "Sabbir Hossain (Product Designer)",
-      email: "earner@skillbridge.demo"
+      email: "earner@dokkhonagorik.demo"
     },
     {
       role: "business",
       label: "Business SME Persona",
       desc: "Apex Capital / Pathao Express",
-      email: "business@skillbridge.demo"
+      email: "business@dokkhonagorik.demo"
     },
     {
       role: "admin",
       label: "Platform Admin",
       desc: "Moderation & System Controls",
-      email: "admin@skillbridge.demo"
+      email: "admin@dokkhonagorik.demo"
     }
   ];
 

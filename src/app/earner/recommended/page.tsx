@@ -46,7 +46,7 @@ export default function RecommendedProjectsPage() {
           Recommended SME Projects
         </h1>
         <p className="text-xs text-slate-500 mt-1 max-w-2xl leading-relaxed">
-          SkillBridge scores SME projects against your verified skill levels, portfolio case studies, availability, and target budget.
+          DokkhoNagorik scores SME projects against your verified skill levels, portfolio case studies, availability, and target budget.
           <em className="block text-slate-400 mt-1">
             *All scores are transparent estimates computed deterministically to guide your applications.
           </em>

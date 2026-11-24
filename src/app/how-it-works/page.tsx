@@ -10,7 +10,7 @@ export default function HowItWorksPage() {
   const learnerFlow = [
     {
       title: "1. Baseline diagnostic & goals",
-      desc: "Specify your current education level, fields of interest, and available weekly study hours. SkillBridge sets your baseline."
+      desc: "Specify your current education level, fields of interest, and available weekly study hours. DokkhoNagorik sets your baseline."
     },
     {
       title: "2. Phased roadmap syllabus",
@@ -54,7 +54,7 @@ export default function HowItWorksPage() {
           <div className="max-w-xl">
             <span className="text-xs font-mono text-[#6b7487] block mb-1">Architecture</span>
             <h1 className="text-3xl font-semibold text-[#111827] tracking-tight">
-              How SkillBridge works
+              How DokkhoNagorik works
             </h1>
             <p className="text-xs text-[#4b5565] mt-2 leading-relaxed">
               A closed-loop system connecting structured skill acquisition with verified SME commercial demand.
